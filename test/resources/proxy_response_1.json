@@ -1,0 +1,24 @@
+{
+    "supportsHttps": true,
+    "protocol": "socks5",
+    "ip": "104.156.245.57",
+    "port": "10002",
+    "get": true,
+    "post": true,
+    "cookies": true,
+    "referer": true,
+    "user-agent": true,
+    "anonymityLevel": 1,
+    "websites": {
+        "example": true,
+        "google": false,
+        "amazon": false
+    },
+    "country": "US",
+    "tsChecked": 1520264837,
+    "curl": "socks5://104.156.245.57:10002",
+    "ipPort": "104.156.245.57:10002",
+    "type": "socks5",
+    "speed": 0,
+    "otherProtocols": {}
+}

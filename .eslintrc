@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "indent": [
+            "error",
+            4
+        ],
+        "no-await-in-loop": "off",
+        "no-plusplus": "off",
+        "padded-blocks": "off"
+    }
+}
